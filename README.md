@@ -1,7 +1,7 @@
 # Sea Turtle Image Segmentation
-This project entails a comparison of image segmentation models for the purpose of detecting sea turtles and segmenting sea turtle anatomy using SeaTurtleID2022Data Set (https://www.kaggle.com/datasets/wildlifedatasets/seaturtleid2022). The comparison was between the following image segmentation models: Fully Convolutional Network (FCN), Deeplabv3+, PP-LiteSeg, Mask R-CNN, and U-Net. 
+This project entails a comparison of image segmentation models for the purpose of detecting sea turtles and segmenting sea turtle anatomy using SeaTurtleID2022 Data Set (https://www.kaggle.com/datasets/wildlifedatasets/seaturtleid2022). The comparison was between the following image segmentation models: Fully Convolutional Network (FCN), Deeplabv3+, PP-LiteSeg, Mask R-CNN, and U-Net. 
 
-Formal report - 
+Formal pdf report is in the root directory.
 
 ## Guide to setting up method folders and files.
 
